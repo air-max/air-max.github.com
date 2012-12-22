@@ -1,0 +1,6 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://zheng.in
+author: Zheng
+pygments: true
+
